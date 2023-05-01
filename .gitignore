@@ -1,0 +1,10 @@
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+.DS_Store
