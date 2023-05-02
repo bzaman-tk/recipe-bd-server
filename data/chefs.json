@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "url/to/chef1.jpg",
+        "chef_name": "John Smith",
+        "short_bio": "Award-winning chef and restaurateur with a passion for creating unique and delicious dishes.",
+        "likes": 1500,
+        "number_of_recipes": 75,
+        "years_of_experience": 20
+    },
+    {
+        "id": 2,
+        "chef_picture": "url/to/chef2.jpg",
+        "chef_name": "Maria Rodriguez",
+        "short_bio": "Executive chef with experience in a variety of cuisines, including Mediterranean, Asian, and Latin American.",
+        "likes": 2000,
+        "number_of_recipes": 90,
+        "years_of_experience": 15
+    },
+    {
+        "id": 3,
+        "chef_picture": "url/to/chef3.jpg",
+        "chef_name": "David Lee",
+        "short_bio": "Renowned chef and cookbook author known for his innovative approach to traditional Asian cuisine.",
+        "likes": 2500,
+        "number_of_recipes": 100,
+        "years_of_experience": 25
+    },
+    {
+        "id": 4,
+        "chef_picture": "url/to/chef4.jpg",
+        "chef_name": "Sarah Johnson",
+        "short_bio": "Celebrity chef and TV personality who specializes in healthy and nutritious cooking.",
+        "likes": 3000,
+        "number_of_recipes": 60,
+        "years_of_experience": 12
+    },
+    {
+        "id": 5,
+        "chef_picture": "url/to/chef5.jpg",
+        "chef_name": "Michael Brown",
+        "short_bio": "Chef and owner of a popular farm-to-table restaurant, known for his use of locally-sourced ingredients.",
+        "likes": 1800,
+        "number_of_recipes": 50,
+        "years_of_experience": 18
+    },
+    {
+        "id": 6,
+        "chef_picture": "url/to/chef6.jpg",
+        "chef_name": "Jasmine Chen",
+        "short_bio": "Up-and-coming chef with a unique fusion style that blends her Chinese heritage with her travels around the world.",
+        "likes": 2200,
+        "number_of_recipes": 80,
+        "years_of_experience": 10
+    }
+]
