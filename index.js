@@ -18,5 +18,14 @@ app.get('/chefs', (req, res) => {
 app.get('/recipe', (req, res) => {
     res.send(recipe)
 })
+app.get('/recipe/:id', (req, res) => {
+    const id = parseInt(req.params.id);
+    const results = recipe.filter(r => {
+        //return console.log(r.chef_id, id)
+        return r.chef_id.includes(id)
+    }
+    )
+    res.send(results)
+})
 
 app.listen(port, () => console.log('My port is: ', port))
