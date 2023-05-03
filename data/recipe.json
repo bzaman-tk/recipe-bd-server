@@ -22,6 +22,7 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. 2. Add ginger and garlic paste and fry for another minute. 3. Add the tomatoes, cumin powder, coriander powder, chili powder, turmeric powder, and salt. Cook until the tomatoes are soft. 4. Add the beef and cook for 10-15 minutes or until the beef is tender. 5. Add garam masala and cook for another minute. Serve hot with rice.",
+        "image": "/src/assets/beef.jpg",
         "rating": 3.5
     },
     {
@@ -47,6 +48,7 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. 2. Add ginger and garlic paste and fry for another minute. 3. Add the prawns, cumin powder, coriander powder, chili powder, turmeric powder, and salt. Cook until the prawns are pink. 4. Add the coconut milk and cook for 5-10 minutes or until the sauce thickens. Serve hot with rice.",
+        "image": "/src/assets/shrimp.jpg",
         "rating": 3.8
     },
     {
@@ -70,6 +72,7 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Heat oil in a pan and fry the onions until golden brown. 2. Add ginger and garlic paste and fry for another minute. 3. Add the tomatoes, cumin powder, coriander powder, chili powder, turmeric powder, and salt. Cook until the tomatoes are soft. 4. Add the fish and cook for 10-15 minutes or until the fish is cooked through. Serve hot with rice.",
+        "image": "/src/assets/fish.jpg",
         "rating": 3.2
     },
     {
@@ -90,6 +93,7 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Soak the poppy seeds in water for 30 minutes, then grind them to a fine paste. 2. Peel and dice the potatoes. 3. Heat the mustard oil in a pan and add cumin seeds. 4. When the cumin seeds start to splutter, add the diced potatoes and fry until they turn golden brown. 5. Add the poppy seed paste, turmeric powder, and salt, and cook for a few minutes. 6. Add water as needed to achieve the desired consistency. 7. Add the green chilies and cook for a few more minutes. Serve hot with rice.",
+        "image": "/src/assets/potato.jpg",
         "rating": 3.7
     },
     {
@@ -117,6 +121,7 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Marinate the lamb with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, chili powder, turmeric powder, and salt for at least 4 hours. 2. Soak the rice in water for 30 minutes. 3. Fry the onions until golden brown. 4. Add the marinated lamb and fry for a few minutes. 5. Add water and cook until the lamb is tender. 6. Remove the lamb from the pan and set it aside. 7. In the same pan, add the soaked rice, cardamoms, cinnamon sticks, bay leaves, and ghee. 8. Add water and cook until the rice is almost done. 9. Layer the rice and lamb in a baking dish, starting and ending with rice. 10. Cover the dish with aluminum foil and bake in the oven at 350 degrees F for 30-45 minutes. Serve hot with raita and salad.",
+        "image": "/src/assets/biriyani",
         "rating": 3.9
     },
     {
@@ -136,6 +141,7 @@
             "Pistachios for garnish"
         ],
         "cooking_method": "1. Heat the milk in a pan and bring it to a boil. 2. Lower the heat and simmer for 30-40 minutes or until the milk reduces to half. 3. Add the sugar and stir until it dissolves. 4. Remove from heat and let it cool to room temperature. 5. Add the yogurt and cardamom powder, and stir until well combined. 6. Pour the mixture into earthenware pots or any other heat-resistant container. 7. Place the pots in a warm place for 6-8 hours or until the yogurt sets. 8. Refrigerate for at least 2 hours before serving. 9. Garnish with chopped pistachios and serve chilled.",
+        "image": "/src/assets/doi.jpg",
         "rating": 3.8
     },
     {
@@ -154,6 +160,7 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Clean and wash the Hilsa fish. 2. Marinate the fish with turmeric powder and salt. 3. Heat mustard oil in a pan. 4. Fry the fish until both sides are golden brown. 5. Remove the fish from the pan and set aside. 6. In the same pan, add mustard seeds and fry until they start to splutter. 7. Add the green chilies and cook for a few seconds. 8. Add water, turmeric powder, and salt. 9. Add the fried fish to the pan and cook for a few more minutes. Serve hot with steamed rice.",
+        "image": "/src/assets/ilish.jpg",
         "rating": 3.9
     }
 ]
