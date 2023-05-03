@@ -24,7 +24,7 @@ app.get('/chefs/:id', (req, res) => {
 app.get('/recipe', (req, res) => {
     res.send(recipe)
 })
-app.get('/recipe/:id', (req, res) => {
+app.get('/chef-recipe/:id', (req, res) => {
     const id = parseInt(req.params.id);
     const results = recipe.filter(r => {
         //return console.log(r.chef_id, id)
